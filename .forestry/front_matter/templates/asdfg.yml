@@ -6,3 +6,5 @@ fields:
   name: asdfg
   label: asdfg
   description: asdfag
+data_files:
+- _data/information.yml
