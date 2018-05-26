@@ -6,5 +6,8 @@ fields:
   name: asdfg
   label: asdfg
   description: asdfag
+- type: text
+  name: phone
+  label: phone
 data_files:
 - _data/information.yml
